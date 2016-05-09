@@ -2,7 +2,4 @@
 @import 'components/_navigation';
 @import 'components/_clock';
 @import 'components/_controls';
-
-p {
-  color: #777;
-}
+@import 'components/_page-title.scss';
